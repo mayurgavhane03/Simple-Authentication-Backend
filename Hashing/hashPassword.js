@@ -1,0 +1,4 @@
+
+const Hashing = async (passwords) => {
+    
+}
